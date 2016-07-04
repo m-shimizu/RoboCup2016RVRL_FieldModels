@@ -1,0 +1,2 @@
+export GAZEBO_MODEL_PATH=`pwd`
+#export GAZEBO_MODEL_PATH=`pwd`:${GAZEBO_MODEL_PATH}

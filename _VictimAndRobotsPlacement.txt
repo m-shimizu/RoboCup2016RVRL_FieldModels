@@ -1,0 +1,92 @@
+# Pre-Liminary 1
+    * RC2016_event1.world
+    * 4 Victims , 4 Robots + 1 BaseStation
+
+    Victim1 : -28.54 -11.0  0 1.57 0 0
+    Victim2 :  37.0   32.0  0 1.57 0 0
+    Victim3 :  47.8   10.8  0 1.57 0 0
+    Victim4 : -29.0   42.86 0 1.57 0 0
+
+    StartPoint1 : -52.0   18.0  0.3
+    StartPoint2 :   2.07 -38.2  0.3
+    StartPoint3 :  -0.2   76.0  0.3
+    StartPoint4 :  47.9   29.3  0.3
+    StartPoint5 :  60.0   30.0  0.3   (For a Wi-Fi base)
+
+
+# Pre-Liminary 2
+    * RC2016_kouryu1f.world
+    * 3 Victims , 3 Robots + 1 BaseStation
+
+    Victim1 :  24.0  -0.1   0.0 1.57 0 0
+    Victim2 :  11.0  -3.0   0.0 1.57 0 1.57
+    Victim3 : -20.7  -1.62  0.0 1.57 0 0
+
+    StartPoint1 :  2.0  -2.0  0.3 0  0  0
+    StartPoint2 : -1.0  -2.0  0.3 0  0  1.57
+    StartPoint3 : -4.0  -2.0  0.3 0  0  3.14
+    StartPoint4 : -7.0  -2.0  0.3 0  0  4.71   (For a Wi-Fi base)
+
+
+# Pre-Liminary 3
+    * RC2016_kouryu2f.world
+    * 4 Victims , 4 Robots + 1 BaseStation
+
+    Victim1 : -31.66  -2.15  0.0  1.57 0 0
+    Victim2 : -26.74   8.1   0.0  1.57 0 0
+    Victim3 :  21.84  10.30  0.0  1.57 0 1.57
+    Victim4 :  29.5   -8.67  0.0  1.57 0 3.14
+
+    StartPoint1 :   0.0  12.42  0.3  0  0  3.14
+    StartPoint2 :  -1.0  11.0   0.3  0  0  1.57
+    StartPoint3 :  -3.0  11.0   0.3  0  0  1.57
+    StartPoint4 :  -4.0  12.5   0.3  0  0  0
+    StartPoint5 :  -2.0  12.5   0.3  0  0  1.57   (For a Wi-Fi base)
+
+
+# Final 1
+    * RC2016_port3.world
+    * 4 Victims , 4 Robots + 1 BaseStation
+
+    Victim1 : -24.284607  -1.445903  0.0  1.57 0 -1.57
+    Victim2 : 0.001092   -65.878914   0.0  1.57 0 0
+    Victim3 : -0.460664  37.490906  0.0  1.57 0 1.57
+    Victim4 :  24.126913   -16.919064  0.0  1.57 0 1.57
+
+    StartPoint1 : -25.4  23.0   0.3  0  0  3.14
+    StartPoint2 : -25.4  -9.9   0.3  0  0  1.57
+    StartPoint3 : -25.4 -54.5   0.3  0  0  1.57
+    StartPoint4 :  24.0   8.0   0.3  0  0  0
+    StartPoint5 :   0.5  44.0   0.3  0  0  1.57   (For a Wi-Fi base)
+
+# Final 2
+    * RC2016_port2.world
+    * 4 Victims , 4 Robots + 1 BaseStation
+
+    Victim1 : -20.259531  25.734243  0.0  1.57 0  3.14
+    Victim2 : -20.343266 -34.134487  0.0  1.57 0  3.14
+    Victim3 :  20.802052  32.782169  0.0  1.57 0 -1.57
+    Victim4 :  17.984991 -26.790977  0.0  1.57 0  0
+
+    StartPoint1 : -24.0   3.0   0.3  0  0  3.14
+    StartPoint2 : -24.0   1.0   0.3  0  0  3.14
+    StartPoint3 : -24.0  -1.0   0.3  0  0  3.14
+    StartPoint4 : -24.0  -3.0   0.3  0  0  3.14
+    StartPoint5 : -26.0  -1.0   0.3  0  0  3.14   (For a Wi-Fi base)
+
+# Final 2 RETRY
+    * RC2016_event1.world
+    * 4 Victims , 4 Robots + 1 BaseStation
+
+    Victim1 : -30.444600 -19.568300  0.0  1.57 0  1.57
+    Victim2 :  -7.860472  37.781033  0.0  1.57 0  0
+    Victim3 :  14.589423  21.634830  0.0  1.57 0  0
+    Victim4 : -16.201992  -3.154527  0.0  1.57 0  3.14
+
+    StartPoint1 :  17.0   4.0   0.3  0  0  3.14
+    StartPoint2 :  17.0   2.0   0.3  0  0  3.14
+    StartPoint3 :  15.0   4.0   0.3  0  0  3.14
+    StartPoint4 :  15.0   2.0   0.3  0  0  3.14
+    StartPoint5 :  20.0   2.0   0.3  0  0  3.14   (For a Wi-Fi base)
+
+
