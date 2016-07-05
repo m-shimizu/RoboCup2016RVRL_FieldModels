@@ -2,7 +2,7 @@
 6 field models used in RoboCup 2016 Rescue Virtual Robot League.  
 
 ## Installing  
-    * PLease copy model folders "RC2016VRL\_\*" and "victim" folder into ~/.gazebo/models  
+    * PLease copy model folders "RC2016VRL_*" and "victim" folder into ~/.gazebo/models  
 
 ## Usage  
     Please execute gazebo with a world file which you want to use.  
