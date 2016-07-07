@@ -14,6 +14,7 @@
     See _VictimAndRobotsPlacement.txt  
 
 ## Attention  
-    The final run2 field model has an issue which there is a invisible object.  
-    The invisible object is detected by a laser range finder and any robots can go run over it.  
+    * The final run2 field model has an issue which there is a invisible object.  
+      The invisible object is detected by a laser range finder and any robots can go run over it.  
+    * The final run2 retry field model be changed with colored maze walls to be found maze walls easier in the top view.
 
